@@ -49,7 +49,7 @@ def person_del(students_list):
    
     list_show(students_list)
 
-    has_del == False
+    has_del = False
     while True:  
         try:    
             choice = int(input("请选择要删除的序号：\n按0可返回"))
