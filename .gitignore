@@ -1,0 +1,11 @@
+# VS Code 配置
+.vscode/
+
+# Python 缓存文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 环境变量文件，防止密钥提交
+.env
